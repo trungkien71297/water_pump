@@ -1,0 +1,6 @@
+#ifndef WATERPUMP_PIN_CONST_H
+#define WATERPUMP_PIN_CONST_H
+
+#define LED_PIN 26
+
+#endif //end WATERPUMP_PIN_CONST_H
